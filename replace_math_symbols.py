@@ -25,7 +25,7 @@ def replace_math_symbols(text):
         'Z': ' capital Z ',
         'Q': ' capital Q ',
         'R': ' capital R ',
-
+        '→': 'right arrow',
         '≤': ' less than or equal to ',
         '≥': ' greater than or equal to ',
         '<': ' less than ',
