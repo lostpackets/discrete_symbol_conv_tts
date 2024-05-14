@@ -25,6 +25,12 @@ def replace_math_symbols(text):
         'Z': ' capital Z ',
         'Q': ' capital Q ',
         'R': ' capital R ',
+
+        '≤': ' less than or equal to ',
+        '≥': ' greater than or equal to ',
+        '<': ' less than ',
+        '>': ' greater than ',
+        
         'C': ' capital C ',
         'P(A)': ' power set of A '
     }
